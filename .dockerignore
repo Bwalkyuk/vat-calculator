@@ -1,0 +1,7 @@
+node_modules
+build
+.git
+Dockerfile
+README.md
+logo192.png
+logo512.png
