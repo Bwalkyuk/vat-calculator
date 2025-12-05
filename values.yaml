@@ -1,0 +1,2 @@
+image: bwalkyuk/vatcalc:<+pipeline.sequenceId>
+replicas: 1
